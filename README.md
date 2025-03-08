@@ -46,10 +46,9 @@ This **Personal Finance Tracker** interactive dashboard provides a comprehensive
 ## 📸 Screenshots  
 
 ### Overview Dashboard  
-![Overview](https://github.com/sofoq/Car-Sales-Project/blob/main/OVERVIEW.png)  
+![Overview](https://github.com/sofoq/Power_BI_Personal-Finance-Tracker/blob/main/overview.png)  
 
-### Details Dashboard  
-![Details](https://github.com/sofoq/Car-Sales-Project/blob/main/DETAILS.png)  
+![Overview](https://github.com/sofoq/Power_BI_Personal-Finance-Tracker/blob/main/overview_1.png)  
 
 
 
