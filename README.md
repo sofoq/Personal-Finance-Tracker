@@ -1,4 +1,4 @@
-# 📊 **Personal Finance Tracker**
+# 📊 **Personal Finance Dashboard**
 
 This **Personal Finance Tracker** interactive dashboard provides a comprehensive view of your **Income**, **Savings**, and **Expenses** from **January 2021 to February 2024**. It helps you track your financial health by visualizing key metrics and growth patterns over time.
 
