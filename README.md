@@ -55,7 +55,6 @@ Check out the dashboard here: [Personal Finance Dashboard](https://app.powerbi.c
 ![Overview](https://github.com/sofoq/Power_BI_Personal-Finance-Tracker/blob/main/overview_1.png)  
 
 
-
 Sofo Qaadze  
 📧 [sqaadze2000@gmail.com](mailto:sqaadze2000@gmail.com)  
 🔗 [LinkedIn: Sofo Qaadze](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)
