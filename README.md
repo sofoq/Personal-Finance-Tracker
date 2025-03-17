@@ -3,7 +3,7 @@
 This **Personal Finance Tracker** interactive dashboard provides a comprehensive view of your **Income**, **Savings**, and **Expenses** from **January 2021 to February 2024**. It helps you track your financial health by visualizing key metrics and growth patterns over time.
 
 ## 🔗 Live Demo  
-Check out the dashboard here: [Personal Finance Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiMTg5MTQ2NDYtOWYzNS00N2VkLTg5ZDAtZmNjMmExNjJkZmVkIiwidCI6ImJkMGQ4ZDNmLTJjODYtNGRhMC04Y2FhLWZlNjFlNzNlNGQ5MyIsImMiOjEwfQ%3D%3D](https://app.powerbi.com/view?r=eyJrIjoiYzFmYmNiOWEtNWYxOC00OTU2LWFiNjAtZjZlMTQ4MTdkNDM2IiwidCI6ImJkMGQ4ZDNmLTJjODYtNGRhMC04Y2FhLWZlNjFlNzNlNGQ5MyIsImMiOjEwfQ%3D%3D)) 🚀  
+Check out the dashboard here: [Personal Finance Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiYzFmYmNiOWEtNWYxOC00OTU2LWFiNjAtZjZlMTQ4MTdkNDM2IiwidCI6ImJkMGQ4ZDNmLTJjODYtNGRhMC04Y2FhLWZlNjFlNzNlNGQ5MyIsImMiOjEwfQ%3D%3D]) 🚀  
 
 
 ## Key Features
